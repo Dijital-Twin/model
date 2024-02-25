@@ -1,0 +1,1 @@
+# Before inputting the text into the model, we need to preprocess it. This includes seperating the targeted sound from the background noise and other sounds. This is a very important step because the model will only be able to create a voice that is similar to the input voice if the input voice is clear and the background noise is removed.
