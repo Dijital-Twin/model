@@ -1,0 +1,996 @@
+[
+    {
+        "Question": "Joey played Dr. Drake Ramoray on which soap opera show?",
+        "Answer": "Days of Our Live.",
+        "Best_Answer": "Days of Our Lives",
+        "Best_Answer_Score": 0.9969090223312378,
+        "Best_Answer_Context": "s behind and recruits everyone to help. Joey's begins appearing in Days of Our Lives as Dr. Drake Ramoray. One of Phoebe's customer's dies on the mass"
+    },
+    {
+        "Question": "How many times did Ross get divorced?",
+        "Answer": "Three.",
+        "Best_Answer": "three",
+        "Best_Answer_Score": 0.8463739156723022,
+        "Best_Answer_Context": "e of me pheebs I don't know   what I'm talking about, I've been divorced three times.\nPhoebe says that least you've been married, OH MY GOD! I wanna t"
+    },
+    {
+        "Question": "What store does Phoebe hate?",
+        "Answer": "Pottery Barn.",
+        "Best_Answer": "Gladys",
+        "Best_Answer_Score": 0.10443614423274994,
+        "Best_Answer_Context": "be: A bunch of stuff. And the worst one... he wants me    to get rid of Gladys. Monica: Who's Gladys?  Oh! What a tragic loss! Phoebe: Yeah. I really "
+    },
+    {
+        "Question": "Rachel got a job with which company in Paris?",
+        "Answer": "Louis Vuitton.",
+        "Best_Answer": "Louis Vuitton",
+        "Best_Answer_Score": 0.9742572903633118,
+        "Best_Answer_Context": " her boss from Bloomingdale’s in Season 3, who offers her a job with Louis Vuitton in Paris. Ross, still being secretly in love with her, doesn’t want"
+    },
+    {
+        "Question": "What are the names of Ross and Monica's parents?",
+        "Answer": "Jack and Judy Geller.",
+        "Best_Answer": "Don and Janet",
+        "Best_Answer_Score": 0.21974793076515198,
+        "Best_Answer_Context": "friends that just fool around? Rachel: Ok, off the top of my head... Don and Janet. Monica: Who, who are they? Rachel: I know them from work. Monica: "
+    },
+    {
+        "Question": "What was the occupation of Rachel's fiancé Barry Farber?",
+        "Answer": "Orthodontist.",
+        "Best_Answer": "Dr",
+        "Best_Answer_Score": 0.48300492763519287,
+        "Best_Answer_Context": "ct, but the truth is, at the end of the day, I still really wanna be Mrs. Dr. Barry Farber, D.D.S.\nRachel says that Oh God.\nMindy says that I hope you"
+    },
+    {
+        "Question": "Phoebe's scientist boyfriend David worked in what city?",
+        "Answer": "Minsk.",
+        "Best_Answer": "Monica, can I talk to you for a sec?\nMonica says that Ok!\nChandler",
+        "Best_Answer_Score": 0.04974681884050369,
+        "Best_Answer_Context": "andler says that Nice!\nChandler says that Monica, can I talk to you for a sec?\nMonica says that Ok!\nChandler says that David is going to propose to Ph"
+    },
+    {
+        "Question": "Monica dated an ophthalmologist named?",
+        "Answer": "Richard.",
+        "Best_Answer": "let me check this out. (He gets up and grabs a photo album",
+        "Best_Answer_Score": 0.03305910527706146,
+        "Best_Answer_Context": "th blonde, both not attractive…  Hold on one second; let me check this out. (He gets up and grabs a photo album.\nMonica says that What are you doing?\n"
+    },
+    {
+        "Question": "Which <strong>Sprouse</strong> brother played Ross' son Ben?",
+        "Answer": "Cole.",
+        "Best_Answer": "Chandler",
+        "Best_Answer_Score": 0.1864553838968277,
+        "Best_Answer_Context": "Chandler says that No, I let him win—Ross!\nRoss says that Yeah?\nChandler says that Would you tell her I let you win please?\nRoss says that Oh. Yeah.  "
+    },
+    {
+        "Question": "True or false, Rachel kissed all of her Friends (male and female) on the show?",
+        "Answer": "True.",
+        "Best_Answer": "Ross says that It was no big deal",
+        "Best_Answer_Score": 0.03842233121395111,
+        "Best_Answer_Context": "st take off your shirt and tell us!\nRachel says that Ross!\nRoss says that It was no big deal. We-we…said that the rumor was…that umm…you had both…male"
+    },
+    {
+        "Question": "What is Chandler Bing's middle name?",
+        "Answer": "Muriel.",
+        "Best_Answer": "Clint",
+        "Best_Answer_Score": 0.37489205598831177,
+        "Best_Answer_Context": " you?\nChandler says that Okay uh, for now, temporarily, you can call me, Clint.\nJoey says that No way are you cool enough to pull of Clint.\nChandler s"
+    },
+    {
+        "Question": "Who pees on Monica after she is stung by a jellyfish?",
+        "Answer": "Chandler.",
+        "Best_Answer": "Joey",
+        "Best_Answer_Score": 0.4648676812648773,
+        "Best_Answer_Context": "he day on the beach; Joey digs a hole; Monica gets stung by a jellyfish. Joey remembers that peeing on a jellyfish sting takes the pain away; Monica \""
+    },
+    {
+        "Question": "What is the name of Phoebe's twin sister?",
+        "Answer": "Ursula.",
+        "Best_Answer": "Rachel",
+        "Best_Answer_Score": 0.07218538224697113,
+        "Best_Answer_Context": " Oh, you like it? You wanna know where I got it?\nPhoebe says that Sure!\nRachel says that He got it a flea market!\nPhoebe says that You bought your she"
+    },
+    {
+        "Question": "Ross says whose name at the altar in London?",
+        "Answer": "Rachel.",
+        "Best_Answer": "Rachel",
+        "Best_Answer_Score": 0.3154047131538391,
+        "Best_Answer_Context": "nd.\nRoss says that No problem.\nRussell says that And we’ll need you and Rachel to testify before a judge.\nRoss says that Ooh! There’s no way to do thi"
+    },
+    {
+        "Question": "Which member of the British royal family appeared on Friends</em>?",
+        "Answer": "Sarah Ferguson/Duchess of York.",
+        "Best_Answer": "Chandler",
+        "Best_Answer_Score": 0.20041806995868683,
+        "Best_Answer_Context": "I mean, is it supposed   to be this... difficult? Joey: I don't know.  Chandler: That fake British woman is a real bitch, but she   sure can dance... "
+    },
+    {
+        "Question": "Brad Pitt and David Schwimmer's characters cofounded what club in high school?",
+        "Answer": "The I Hate Rachel Green Club.",
+        "Best_Answer": "The I Hate Rachel Green Club",
+        "Best_Answer_Score": 0.45036059617996216,
+        "Best_Answer_Context": "chel says that You had a club?!\nWill says that That’s right, The I Hate Rachel Green Club!\nRachel says that Whoa! My God! So what, you all just joined"
+    },
+    {
+        "Question": "Which of Joey's sisters did Chandler fool around with?",
+        "Answer": "Mary Angela.",
+        "Best_Answer": "Monica",
+        "Best_Answer_Score": 0.5896130800247192,
+        "Best_Answer_Context": "says that Mary-Angela.\nRoss says that Mary-Angela.\nJoey says that Yeah.\nMonica says that Y'know which one was she again?\nJoey says that Why don’t you "
+    },
+    {
+        "Question": "Who was Joey's imaginary childhood friend?&nbsp;",
+        "Answer": "Maurice.",
+        "Best_Answer": "Maurice",
+        "Best_Answer_Score": 0.9629549384117126,
+        "Best_Answer_Context": "Joey, had an imaginary childhood friend. His name was?\nMonica says that Maurice.\nRoss says that Correct, his profession was?\nRachel says that Space co"
+    },
+    {
+        "Question": "What was the profession of Joey's imaginary friend?",
+        "Answer": "Space cowboy.",
+        "Best_Answer": "Maurice",
+        "Best_Answer_Score": 0.8596248626708984,
+        "Best_Answer_Context": "Joey, had an imaginary childhood friend. His name was?\nMonica says that Maurice.\nRoss says that Correct, his profession was?\nRachel says that Space co"
+    },
+    {
+        "Question": "What was Monica's nickname when she was a field hockey goalie?",
+        "Answer": "Big Fat Goalie.",
+        "Best_Answer": "Big fat goalie",
+        "Best_Answer_Score": 0.9519494771957397,
+        "Best_Answer_Context": "onica’s nickname when she was a field hockey goalie?\nJoey says that Big fat goalie.\nRoss says that Correct. Rachel claims this is her favorite movie…\n"
+    },
+    {
+        "Question": "What does Rachel guess Chandler's job is?",
+        "Answer": "A transponster.",
+        "Best_Answer": "perfect",
+        "Best_Answer_Score": 0.3236936032772064,
+        "Best_Answer_Context": " clothes, and—oh, I went to camp with her cousin... And, oh, the job is perfect. I can do this. I can do this well!\nAll says that That's great! That's"
+    },
+    {
+        "Question": "What is Richard's daughter's name?",
+        "Answer": "Michelle.",
+        "Best_Answer": "Joey",
+        "Best_Answer_Score": 0.4118072986602783,
+        "Best_Answer_Context": "Richard says that Nice to meet you Joey.\nJoey says that Wow! I can’t believe this! This is incredible. I mean you just won an Oscar!\nRichard says that"
+    },
+    {
+        "Question": "Who is Joey's agent?",
+        "Answer": "Estelle.",
+        "Best_Answer": "Phoebe",
+        "Best_Answer_Score": 0.4142512083053589,
+        "Best_Answer_Context": "did stick with me for ten years. I’m gonna call her and hire her again.\nPhoebe says that No, no, no! Don't call her! You wait for her to call    you\nJ"
+    },
+    {
+        "Question": "Who&nbsp;mistakingly&nbsp;threw a woman's wooden leg into a fire?",
+        "Answer": "Joey.",
+        "Best_Answer": "Joey",
+        "Best_Answer_Score": 0.17451772093772888,
+        "Best_Answer_Context": "at Oh my God! Joey, what did you do after you threw her leg on the fire?\nJoey says that I ran!!\nChandler says that Well, that’s the best kiss I’ve had"
+    },
+    {
+        "Question": "What was the name of Chandler and Ross' college band?",
+        "Answer": "Way, No Way.",
+        "Best_Answer": "Dana Keystone",
+        "Best_Answer_Score": 0.14452746510505676,
+        "Best_Answer_Context": "ge with who-who became a movie director?\nChandler says that Oh yeah, Dana Keystone. She was in my Movement class.\nPhoebe says that What’s a Movement c"
+    },
+    {
+        "Question": "Monica categorizes her towels into how many categories?",
+        "Answer": "11.",
+        "Best_Answer": "Fancy",
+        "Best_Answer_Score": 0.12157503515481949,
+        "Best_Answer_Context": "ny categories are there?\nJoey says that Everyday use.\nChandler says that Fancy.\nJoey says that Guest.\nChandler says that Fancy guest.\nRoss says that T"
+    },
+    {
+        "Question": "Ross and Rachel's wedding dinner was held where in Vegas?",
+        "Answer": "A Pizza Hut.",
+        "Best_Answer": "Vegas",
+        "Best_Answer_Score": 0.31489020586013794,
+        "Best_Answer_Context": " I’ve done lots of crazy things! I mean I got-I got drunk and married in Vegas!\nPhoebe says that To Ross.\nRachel says that All right, y’know what? If "
+    },
+    {
+        "Question": "Joey and Chandler's TV guide is addressed to who?",
+        "Answer": "Miss Chanandler Bong.",
+        "Best_Answer": "Mrs. Braverman",
+        "Best_Answer_Score": 0.48102518916130066,
+        "Best_Answer_Context": "s that Chandler, this is not addressed to you. This is addressed to Mrs. Braverman downstairs.  Thief.\nChandler says that I—no! I didn't read the box "
+    },
+    {
+        "Question": "What was the name of Ross' pet monkey?",
+        "Answer": "Marcel.",
+        "Best_Answer": "Marcel",
+        "Best_Answer_Score": 0.9823177456855774,
+        "Best_Answer_Context": "onica have a great time... until Fake Monica is arrested. Ross' monkey, Marcel, reaches sexual maturity and starts humping everything in sight; Ross h"
+    },
+    {
+        "Question": "According to Monica, a woman has how many erogenous zones?",
+        "Answer": "Seven.",
+        "Best_Answer": "one, two three, four , five, six, and seven",
+        "Best_Answer_Score": 0.5071138143539429,
+        "Best_Answer_Context": "w everybody knows the basic erogenous zones.  You got one, two three, four , five, six, and seven!\nChandler says that There are seven?!  That’s one?\nM"
+    },
+    {
+        "Question": "What does Phoebe legally change her name to after her wedding?",
+        "Answer": "Princess Consulea Banana Hammock.",
+        "Best_Answer": "Monica",
+        "Best_Answer_Score": 0.5030536651611328,
+        "Best_Answer_Context": "\nPhoebe says that Well, who cares what your Mom thinks? So you pulled a Monica.\nMonica says that Oh good, I’m glad that’s catching on.\nPhoebe says tha"
+    },
+    {
+        "Question": "What form of self-defense does Ross try to teach Rachel and Phoebe?",
+        "Answer": "Unagi.",
+        "Best_Answer": "kara-tay",
+        "Best_Answer_Score": 0.22957634925842285,
+        "Best_Answer_Context": "from an attack you know is coming, that’s not enough. Look, I studying kara-tay for a long time, and there’s a concept you should really be familiar w"
+    },
+    {
+        "Question": "What song makes Ross and Rachel's daughter Emma laugh for the first time?",
+        "Answer": "Sir Mix-a-Lot's Baby Got Back.",
+        "Best_Answer": "Baby Got Back",
+        "Best_Answer_Score": 0.7199108600616455,
+        "Best_Answer_Context": "propriate Song\nRoss makes Emma laugh for the first time, by singing \"Baby Got Back,\" which offends Rachel (until she finds she can't make Emma laugh a"
+    },
+    {
+        "Question": "What is the name of Joey's stuffed penguin?",
+        "Answer": "Hugsy.",
+        "Best_Answer": "Monica",
+        "Best_Answer_Score": 0.009421556256711483,
+        "Best_Answer_Context": "She deserves to know who it's going to.      Monica:  okay, right.\nChandler says that So, we'll tell the truth and who knows, maybe she'll like us for"
+    },
+    {
+        "Question": "What caused the fire at Rachel and Phoebe's apartment?",
+        "Answer": "Rachel's hair straightener.",
+        "Best_Answer": "an eagle",
+        "Best_Answer_Score": 0.7124923467636108,
+        "Best_Answer_Context": "ays that Ubb.\nRoss says that A pigeon, a pigeon.  No, no  wait, no-no, an eagle flew in. Landed on the stove and caught fire. The baby,  seeing this, "
+    },
+    {
+        "Question": "Phoebe is a surrogate for who?",
+        "Answer": "Her half-brother Frank Jr. and his wife Alice.",
+        "Best_Answer": "her brother and his new wife",
+        "Best_Answer_Score": 0.7403417825698853,
+        "Best_Answer_Context": "e show as her surrogate pregnancy which she goes through for her brother and his new wife (who also get married in this season but we actually meet fo"
+    },
+    {
+        "Question": "What color is Monica's apartment?",
+        "Answer": "Purple.",
+        "Best_Answer": "Not until it's a hundred percent",
+        "Best_Answer_Score": 0.1484985649585724,
+        "Best_Answer_Context": "n do we tell them about this?\nChandler says that We don’t. Not until it's a hundred percent. I mean, why upset everybody over nothing.\nMonica says tha"
+    },
+    {
+        "Question": "How many sisters does Joey have?",
+        "Answer": "Seven.",
+        "Best_Answer": "Six",
+        "Best_Answer_Score": 0.48932379484176636,
+        "Best_Answer_Context": "t me ask you something. How many sisters   does Joey have?\nMike says that Six!\nJoey says that What are you doing? I said seven!     Argh!!!\nPhoebe say"
+    },
+    {
+        "Question": "Joey doesn't share what?",
+        "Answer": "Food.",
+        "Best_Answer": "food",
+        "Best_Answer_Score": 0.7652950286865234,
+        "Best_Answer_Context": "at? You know about the plate thing? Rachel: Oh, yeah. Joey doesn’t share food. I mean, just last week we were having breakfast and he had a couple of "
+    },
+    {
+        "Question": "What is the name of Chandler's father's Las Vegas all-male burlesque?",
+        "Answer": "Viva Las Gaygas.",
+        "Best_Answer": "Viva Las Gaygas",
+        "Best_Answer_Score": 0.8305984139442444,
+        "Best_Answer_Context": " Chandler’s father’s Las Vegas all-male burlesque?\nMonica says that Viva Las Gaygas!\nChandler says that Unfortunately that is correct.\nThe Girls says "
+    },
+    {
+        "Question": "Phoebe attempts to teach Joey what language?",
+        "Answer": "French.",
+        "Best_Answer": "Ross, you've got to tell her how you feel!\nRoss says that No way!\nJoey says that You can't just give up! Is that what a dinosaur would do?\nRoss says that What?\nJoey says that Dude, I'm just trying to speak your language",
+        "Best_Answer_Score": 0.10850835591554642,
+        "Best_Answer_Context": " Ross, you've got to tell her how you feel!\nRoss says that No way!\nJoey says that You can't just give up! Is that what a dinosaur would do?\nRoss says that What?\nJoey says that Dude, I'm just trying to speak your language"
+    },
+    {
+        "Question": "Chick Jr. and Duck Jr. got stuck in what?",
+        "Answer": "A foosball table.",
+        "Best_Answer": "foosball table",
+        "Best_Answer_Score": 0.7430253028869629,
+        "Best_Answer_Context": "ick Jr. and Duck Jr. escape from their box and get stuck inside the foosball table; it has to be torn apart to get them out.  Ross and Phoebe get to N"
+    },
+    {
+        "Question": "Who was married to a supposedly gay Canadian ice dancer named Duncan?",
+        "Answer": "Phoebe.",
+        "Best_Answer": "Phoebe",
+        "Best_Answer_Score": 0.21353283524513245,
+        "Best_Answer_Context": " apartment to be \"their\" apartment.\n\n2.04 The One With Phoebe's Husband\nPhoebe turns out to be married to Duncan, a gay friend who needed a green card"
+    },
+    {
+        "Question": "Rachel was in which sorority?",
+        "Answer": "Kappa Kappa Delta.",
+        "Best_Answer": "Sigma Chi",
+        "Best_Answer_Score": 0.6031474471092224,
+        "Best_Answer_Context": "oo much. I was uh, tellin’ Phoebe about that one crazy night after the Sigma Chi luau where you and I uh, we made out.\nMelissa says that What?\nRachel "
+    },
+    {
+        "Question": "What are the names of Rachel's sisters?",
+        "Answer": "Jill and Amy Greene.",
+        "Best_Answer": "Two sisters",
+        "Best_Answer_Score": 0.42908746004104614,
+        "Best_Answer_Context": " Atkins. Amy: She was. Carbs found her... See, this is what I wanted. Two sisters, talking    about real stuff. Rachel:  Oh, I can give you that. Amy:"
+    },
+    {
+        "Question": "Which character famously said, PIVOT?",
+        "Answer": "Ross.",
+        "Best_Answer": "Joey",
+        "Best_Answer_Score": 0.1847098171710968,
+        "Best_Answer_Context": "e the  cookies they serve in hell!\nChandler says that Whoa! She’s purty!\nJoey says that Oh yeah, and she’s really nice too! She taught me about y’know"
+    },
+    {
+        "Question": "Phoebe finds what in her soda can?",
+        "Answer": "A human thumb.",
+        "Best_Answer": "a thumb",
+        "Best_Answer_Score": 0.8805863857269287,
+        "Best_Answer_Context": "ant; she complains and gets more; she gives it away and gets a can of soda in return... which contains a thumb. The beverage company gives her $7000. "
+    },
+    {
+        "Question": "Who was (accidentally) Monica's first kiss?",
+        "Answer": "Her brother Ross.",
+        "Best_Answer": "Chandler",
+        "Best_Answer_Score": 0.3844025135040283,
+        "Best_Answer_Context": "... it was amazing. And now, now I find out that you kissed her first.\nChandler says that Oh wait... What bed did you say she was on?\nRoss says that M"
+    },
+    {
+        "Question": "Rachel goes on Ross' honeymoon by herself where?",
+        "Answer": "Athens, Greece.",
+        "Best_Answer": "London",
+        "Best_Answer_Score": 0.35830914974212646,
+        "Best_Answer_Context": " With Ross's Wedding, part 1\nRoss, Monica, Joey, and Chandler leave for London; Phoebe's pregancy prohibits travel and Rachel stays to take care of he"
+    },
+    {
+        "Question": "What holiday does Chandler hate?",
+        "Answer": "Thanksgiving.",
+        "Best_Answer": "Thanksgiving",
+        "Best_Answer_Score": 0.05829077214002609,
+        "Best_Answer_Context": "achel says that Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner? What, what, what is it with you and this holiday?\nChandler s"
+    },
+    {
+        "Question": "Who was Rachel's prom date?",
+        "Answer": "Chip Matthews.",
+        "Best_Answer": "Ross",
+        "Best_Answer_Score": 0.4483857750892639,
+        "Best_Answer_Context": " doesn't show up and she's distraught about having to miss her own Prom. Ross prepares to take her, but just before this is revealed, Rachel's date sh"
+    },
+    {
+        "Question": "What was the name of Ross and Monica's dog when they were kids?",
+        "Answer": "Chi-Chi.",
+        "Best_Answer": "Rover",
+        "Best_Answer_Score": 0.48576775193214417,
+        "Best_Answer_Context": "Look, when Monica and I were kids, we had a dog named Rover. And, uh, one day, my dad decides, he doesn't like dogs. So Monica and her friend…Phyllis…"
+    },
+    {
+        "Question": "What actor played Phoebe's husband Mike Hannigan?",
+        "Answer": "Paul Rudd.",
+        "Best_Answer": "Going go to the bathroom",
+        "Best_Answer_Score": 0.16569188237190247,
+        "Best_Answer_Context": "win... Thank    you Thor!  Where... where are you going? Mike: Going go to the bathroom. Phoebe: Well, I think you should wait. Mike: Why? Phoebe: Wel"
+    },
+    {
+        "Question": "Where did Ross and Rachel have their first date?",
+        "Answer": "The planetarium.",
+        "Best_Answer": "museum",
+        "Best_Answer_Score": 0.5982635021209717,
+        "Best_Answer_Context": "ir age difference, Richard and Monica begin dating. Ross and Rachel begin dating. One of their dates is interrupted when Ross is paged to the museum. "
+    },
+    {
+        "Question": "How many roses did Ross send Emily?",
+        "Answer": "72.",
+        "Best_Answer": "72",
+        "Best_Answer_Score": 0.8864578604698181,
+        "Best_Answer_Context": "ore!  Check it out, no one will tell me where Emily is, so I'm gonna send 72 long-stem, red roses to Emily's parent's house, one for each day that I'v"
+    },
+    {
+        "Question": "How many pages was Rachel's letter to Ross?",
+        "Answer": "Eighteen pages (front and back).",
+        "Best_Answer": "36",
+        "Best_Answer_Score": 0.7345362901687622,
+        "Best_Answer_Context": "g with their previous relationship). However, Ross is too tired to read a 36-page letter in the early hours of dawn (“18 pages – front and back”), but"
+    },
+    {
+        "Question": "What year did Friends first premiere?",
+        "Answer": "1994.",
+        "Best_Answer": "1997",
+        "Best_Answer_Score": 0.9003206491470337,
+        "Best_Answer_Context": "ason 4!\n\nThe fourth season of Friends, premiered on NBC on September 25, 1997. This season contained 24 episodes and concluded airing on May 7, 1998. "
+    },
+    {
+        "Question": "Joey's Cabbage Patch Kid is named what?",
+        "Answer": "Alicia May Emory",
+        "Best_Answer": "Raymond",
+        "Best_Answer_Score": 0.6447486877441406,
+        "Best_Answer_Context": "commercial belongs to me and Mitch!\nRoss says that You're kid's name is Raymond!\nJoey says that Yeah?! So's yours!\nMonica says that How did work go?\nR"
+    },
+    {
+        "Question": "What was the name of the game Chandler made up to give Joey money?",
+        "Answer": "Cups.",
+        "Best_Answer": "Cups",
+        "Best_Answer_Score": 0.8145185112953186,
+        "Best_Answer_Context": " hell is that dog doing here?!\nChandler says that I invented the game of Cups as a way to give Joey money.\nRoss says that And now you want that money "
+    },
+    {
+        "Question": "In an effort to get over Richard, Monica started making what?",
+        "Answer": "Jam.",
+        "Best_Answer": "French toast",
+        "Best_Answer_Score": 0.22280538082122803,
+        "Best_Answer_Context": "mes I think about selling my practice, we could move to France, make French toast.  MONICA: Okay, so, uh, we're in France, we're making the toast. Do "
+    },
+    {
+        "Question": "What fruit is Ross allergic to?",
+        "Answer": "Kiwi.",
+        "Best_Answer": "nuts",
+        "Best_Answer_Score": 0.13277865946292877,
+        "Best_Answer_Context": "eanuts, and cashews, and almonds, and filberts... Ross: So basically all nuts? Professor Spafford: Interestingly... no. Charlie: Kinda playing fast an"
+    },
+    {
+        "Question": "What is Rachel's favorite flower?",
+        "Answer": "Lillies.",
+        "Best_Answer": "lilies",
+        "Best_Answer_Score": 0.9786803722381592,
+        "Best_Answer_Context": "we had our first date. Um, she walked in and I had the room filled with lilies, her favorite flower…\nAunt Lisa says that Oh that is so sweet!\nRachel s"
+    },
+    {
+        "Question": "What was the name of Ross and Rachel's male nanny?",
+        "Answer": "Sandy.",
+        "Best_Answer": "Sandy",
+        "Best_Answer_Score": 0.9789042472839355,
+        "Best_Answer_Context": "utting Phoebe's emotions in conflict. Rachel and Ross hire a male nanny (Sandy) to care for Emma, but he's too sensitive for Ross's comfort. Joey lear"
+    },
+    {
+        "Question": "Who came on to who in The One With The Videotape?",
+        "Answer": "Rachel came on to Ross.",
+        "Best_Answer": "Rachel",
+        "Best_Answer_Score": 0.2124321162700653,
+        "Best_Answer_Context": "ell, so later Ross was practicing the story in front of a video camera. Rachel came in, and Ross forgot to turn off the camera. He and Rachel began ta"
+    },
+    {
+        "Question": "What was Joey's nickname when he was working at Alessandro's?",
+        "Answer": "Dragon.",
+        "Best_Answer": "Maurice",
+        "Best_Answer_Score": 0.4091178774833679,
+        "Best_Answer_Context": " Joey had an imaginary childhood friend. His name was?\nMonica says that Maurice.\nRoss says that Correct, his profession was?\nRachel says that Space co"
+    },
+    {
+        "Question": "Monica worked as a waitress at what diner?",
+        "Answer": "Moondance Diner.",
+        "Best_Answer": "Innsbruck",
+        "Best_Answer_Score": 0.09742321074008942,
+        "Best_Answer_Context": "ndler says that You know, I don't mean to brag, but I waited tables at Innsbruck in '76.  Amouz-bouche?\nCelia says that Talk to me.\nRoss says that OK."
+    },
+    {
+        "Question": "What was Rachel's bra size?",
+        "Answer": "32C.",
+        "Best_Answer": "32C",
+        "Best_Answer_Score": 0.9361852407455444,
+        "Best_Answer_Context": " have it. Oh, okay, I can't find it,    but I remember that I was in seat 32C, because that's my bra-size.\nGate attendant #1 says that Madame, you mus"
+    },
+    {
+        "Question": "Ross worked as a professor at what school?",
+        "Answer": "New York University.",
+        "Best_Answer": "Spring vacation",
+        "Best_Answer_Score": 0.32797718048095703,
+        "Best_Answer_Context": " you.\nRoss says that Oh, okay. What-what about?\nElizabeth says that Spring vacation.\nRoss says that Spring vacation.\nElizabeth says that Yeah, we have"
+    },
+    {
+        "Question": "What word did Rachel misspell on her resume?",
+        "Answer": "Computer.",
+        "Best_Answer": "gossip",
+        "Best_Answer_Score": 0.11196446418762207,
+        "Best_Answer_Context": "out.\nMonica says that Hey Rach, maybe your resolution should be to umm, gossip less.\nRachel says that I don't gossip!\nRachel says that Well, maybe som"
+    },
+    {
+        "Question": "What are the names of the triplets Phoebe gives birth to?",
+        "Answer": "Frank Jr. Jr., Leslie and Chandler.",
+        "Best_Answer": "Leslie, and Chandler",
+        "Best_Answer_Score": 0.7861577272415161,
+        "Best_Answer_Context": "episode. She gives birth to a boy, Frank Jr. Jr., and two girls: Leslie, and Chandler. (They had originally thought that there were two boys and one g"
+    },
+    {
+        "Question": "Who said, See, he's her lobster!",
+        "Answer": "Phoebe.",
+        "Best_Answer": "The Waiter",
+        "Best_Answer_Score": 0.43353548645973206,
+        "Best_Answer_Context": "g talk. Y’know? Get Joey out on the open road and really open him up.\nThe Waiter says that Any progress?\nJoey says that Yes! I will have the lobster r"
+    },
+    {
+        "Question": "What city is Friends</em> set in?",
+        "Answer": "New York City.",
+        "Best_Answer": "floating city",
+        "Best_Answer_Score": 0.18168634176254272,
+        "Best_Answer_Context": "And    they'll be living in a floating city that the humans built to escape the ant    people!\nRoss says that That's the hope! So, is Emma awake yet?\n"
+    },
+    {
+        "Question": "What is the first wedding gift Monica opens?",
+        "Answer": "A tiny salt shaker.",
+        "Best_Answer": "Mia Hamm",
+        "Best_Answer_Score": 0.1261640042066574,
+        "Best_Answer_Context": " umm…oh…who’s that kind of annoying girl soccer player?\nJoey says that Mia Hamm?\nRachel says that Mia Hamm!\nJoey says that Oh that’s amazing.\nRachel s"
+    },
+    {
+        "Question": "Rachel's sister Amy decides she wants to become what after babysitting Emma?",
+        "Answer": "A baby stylist.",
+        "Best_Answer": "aunt",
+        "Best_Answer_Score": 0.762933611869812,
+        "Best_Answer_Context": "he has   no where else to go, and she's my sister. Alright, she's Emma's aunt. And I   would like them to bond.\nRoss says that Ok, fine, but I don't w"
+    },
+    {
+        "Question": "Ross and Carol were busted having sex on which Disney ride?",
+        "Answer": "It's a Small World.",
+        "Best_Answer": "Susan",
+        "Best_Answer_Score": 0.08245638012886047,
+        "Best_Answer_Context": "tinuation of the alternate reality: Ross and Carol have a threesome with Susan, but Ross feels left out. Phoebe goes stir-crazy in the hospital, and s"
+    },
+    {
+        "Question": "Which Friend entered a Vanilla Ice lookalike contest and won?",
+        "Answer": "Chandler.",
+        "Best_Answer": "Chandler",
+        "Best_Answer_Score": 0.5266404151916504,
+        "Best_Answer_Context": "ey.\nJoey says that Why would they do that?! It was a good show right?!\nChandler says that You wanna tell secrets?! Okay! Okay! In college, Ross used t"
+    },
+    {
+        "Question": "True or false, Monica ate macaroni off a jewelry box she made.",
+        "Answer": "True.",
+        "Best_Answer": "Once Monica was sent to her room without dinner",
+        "Best_Answer_Score": 0.11536936461925507,
+        "Best_Answer_Context": "dy told him everything!  You shush!!\nRoss says that Once Monica was sent to her room without dinner, so she ate the macaroni off a jewelry box she’d m"
+    },
+    {
+        "Question": "What ingredient did Rachel&nbsp;mistakingly&nbsp;put in her Thanksgiving trifle?",
+        "Answer": "Beef.",
+        "Best_Answer": "beef",
+        "Best_Answer_Score": 0.6612977385520935,
+        "Best_Answer_Context": " that I love Jacques Cousteau!\nRachel says that I wasn’t supposed to put beef in the trifle!\nJoey says that I wanna gooooooo!\nMrs. Geller says that Th"
+    },
+    {
+        "Question": "Phoebe thought Kenny the Copy Guy was who?",
+        "Answer": "Ralph Lauren.",
+        "Best_Answer": "Ralph Lauren",
+        "Best_Answer_Score": 0.9628525972366333,
+        "Best_Answer_Context": " Rachel at work and makes out with Kenny the copy boy, thinking it's Ralph Lauren. She tells Rachel, who gossips to her boss (Kim), who eventually bec"
+    },
+    {
+        "Question": "Who dated a college student named Elizabeth Stevens?",
+        "Answer": "Ross.",
+        "Best_Answer": "Ross",
+        "Best_Answer_Score": 0.5399128198623657,
+        "Best_Answer_Context": " Monica and Chandler get engaged and begin planning their wedding, while Ross begins dating a student named Elizabeth. Rachel also develops feelings f"
+    },
+    {
+        "Question": "Monica could not tell time until what age?",
+        "Answer": "13.",
+        "Best_Answer": "15",
+        "Best_Answer_Score": 0.12368521839380264,
+        "Best_Answer_Context": "is shirt!!\nRachel says that You have not worn that T-shirt since you were 15!! It doesn’t even fit you anymore!\nRoss says that Oh, yeah-yeah-yeah-yeah"
+    },
+    {
+        "Question": "Phoebe created a three-dimensional picture of a woman named?",
+        "Answer": "Gladys.",
+        "Best_Answer": "XANADU",
+        "Best_Answer_Score": 0.4380350708961487,
+        "Best_Answer_Context": "inside good, outside bad.  PHOEBE: You guys are so pathetic, I, oh, OH, XANADU! OH.  CHANDLER: She's one of us now.    RACHEL: Hi you guys.  ROSS: Hey"
+    },
+    {
+        "Question": "Who was the last Friend to find out about Monica and Chandler's relationship?",
+        "Answer": "Ross.",
+        "Best_Answer": "Phoebe",
+        "Best_Answer_Score": 0.6388372182846069,
+        "Best_Answer_Context": "because I was just gonna go across the hall and write that on Chandler.\nPhoebe says that Ok, you guys, I don’t mean to make things worse, but umm, I d"
+    },
+    {
+        "Question": "Chandler and Joey both dated an actress named?",
+        "Answer": "Kathy.",
+        "Best_Answer": "Kathy",
+        "Best_Answer_Score": 0.7340222597122192,
+        "Best_Answer_Context": "he first time in the third season).\n\nJoey starts dating an actress named Kathy, who Chandler has a crush on. However, Chandler and Kathy kiss while sh"
+    },
+    {
+        "Question": "What did Monica want from Phoebe as an engagement present?",
+        "Answer": "Her grandmother's cookie recipe.",
+        "Best_Answer": "her grandmother's chocolate-chip cookie recipe",
+        "Best_Answer_Score": 0.7082437872886658,
+        "Best_Answer_Context": " had them all along.  Phoebe decides to give Monica her grandmother's chocolate-chip cookie recipe as an engagement present, but discovers it was dest"
+    },
+    {
+        "Question": "Who had a pony and a boat at age 15?",
+        "Answer": "Rachel.",
+        "Best_Answer": "Rachel",
+        "Best_Answer_Score": 0.024858206510543823,
+        "Best_Answer_Context": "oss says that I’m-I’m gonna wear this all the time! I love this shirt!!\nRachel says that You have not worn that T-shirt since you were 15!! It doesn’t"
+    },
+    {
+        "Question": "Phoebe said something was wrong with the right or the left phalange of Rachel's plane?",
+        "Answer": "The left.",
+        "Best_Answer": "left Philange",
+        "Best_Answer_Score": 0.44474291801452637,
+        "Best_Answer_Context": "eling that something's wrong with it. Something    is wrong with the left Philange.\nRachel says that Oh, honey, I'm sure there's nothing wrong with th"
+    },
+    {
+        "Question": "Who is Santa's friend that Ross invents to teach Ben about Hanukkah?",
+        "Answer": "The Holiday Armadillo.",
+        "Best_Answer": "Holiday Armadillo",
+        "Best_Answer_Score": 0.22083398699760437,
+        "Best_Answer_Context": "says that You wanna wander in the hall?  Ooh, hey Ben, what if the Holiday Armadillo told you all about the festival of lights?\nBen says that Cool!\nRo"
+    },
+    {
+        "Question": "Who is the youngest Friend?",
+        "Answer": "Rachel.",
+        "Best_Answer": "Monica",
+        "Best_Answer_Score": 0.0733681172132492,
+        "Best_Answer_Context": "against her friend's cooking which she actually thinks is pretty great!\nMonica says that I'm sorry...\nPhoebe says that I'm sorry too...\nMonica says th"
+    },
+    {
+        "Question": "Chandler told Janice he was moving where to avoid seeing her again?",
+        "Answer": "Yemen.",
+        "Best_Answer": "emergency",
+        "Best_Answer_Score": 0.05649884417653084,
+        "Best_Answer_Context": "Chandler agreed to call here in a few minutes with an emergency. Phoebe: Oh! Well, what kind of emergency that gets us both   out of here? Monica: Wel"
+    },
+    {
+        "Question": "Who introduced Phoebe and Mike?",
+        "Answer": "Joey.",
+        "Best_Answer": "Mr. No Balls",
+        "Best_Answer_Score": 0.15180812776088715,
+        "Best_Answer_Context": "e.  Phoebe: It's in the cake, isn't it? Mike:  Where else would lame Mr. No Balls hide it?  Phoebe: What's the matter with me? How do I keep ruining t"
+    },
+    {
+        "Question": "Phoebe's grandmother said she got her cookie recipe from her grandmother named?",
+        "Answer": "Nestle Toulouse (AKA Nestlé Toll House).",
+        "Best_Answer": "Nesele Tolouse",
+        "Best_Answer_Score": 0.7986774444580078,
+        "Best_Answer_Context": " know. My grandmother said she got the recipe from her grandmother, Nesele Tolouse.\nMonica says that What was her name?\nPhoebe says that Nesele Toulou"
+    },
+    {
+        "Question": "Joey's stalker Erika Ford was played by which actress?",
+        "Answer": "Brooke Shields.",
+        "Best_Answer": "Harrison Ford",
+        "Best_Answer_Score": 0.27376851439476013,
+        "Best_Answer_Context": "rists and villains!\nJoey says that Okay! Okay, look! You-you-you got Harrison Ford up there!\nThe Dry Cleaner says that That’s right. Mr. Ford is a ver"
+    },
+    {
+        "Question": "Who did Monica forget to invite to Rachel's baby shower?",
+        "Answer": "Rachel's mother Sandra.",
+        "Best_Answer": "her mother",
+        "Best_Answer_Score": 0.8678790330886841,
+        "Best_Answer_Context": "ter a while the guys really take a liking to it. Monica and Phoebe throw Rachel a baby shower, but forget to invite her mother until the last minute. "
+    },
+    {
+        "Question": "Which of Monica's boyfriends wanted to become the Ultimate Fighting Champion?",
+        "Answer": "Pete (Peter Becker).",
+        "Best_Answer": "Pete",
+        "Best_Answer_Score": 0.9651156663894653,
+        "Best_Answer_Context": "ng.\n\n3.24 The One With The Ultimate Fighting Champion\nMonica's boyfriend Pete begins competing to be the Ultimate Fighting Champion; he loses... repea"
+    },
+    {
+        "Question": "What was the name of the lipstick brand for men that Joey starred in a Japanese commercial for?",
+        "Answer": "Ichiban.",
+        "Best_Answer": "Ichiban",
+        "Best_Answer_Score": 0.8513032793998718,
+        "Best_Answer_Context": "izes the truth because Chandler never says anything about his Japanese 'Ichiban:  Lipstick for men\" commercial.  Ross is applying for a paleontology g"
+    },
+    {
+        "Question": "Ross, Susan and Phoebe got stuck where before Ben's birth?",
+        "Answer": "A closet.",
+        "Best_Answer": "school",
+        "Best_Answer_Score": 0.06890127062797546,
+        "Best_Answer_Context": "at Hi. Sorry I’m late. Where’s, where’s Carol?\nSusan says that Stuck at school. Some parent-teacher thing. You can go. I’ll get the information.\nRoss "
+    },
+    {
+        "Question": "Who gave Phoebe away at her wedding?",
+        "Answer": "Chandler.",
+        "Best_Answer": "Joey",
+        "Best_Answer_Score": 0.10269473493099213,
+        "Best_Answer_Context": "re not giving you a deposit for our wedding!\nPhoebe says that Oh, I see.\nJoey says that They break your heart, don’t they?\nPhoebe says that Y’know, I "
+    },
+    {
+        "Question": "Monica and Chandler first got together where?",
+        "Answer": "London.",
+        "Best_Answer": "London",
+        "Best_Answer_Score": 0.7712599039077759,
+        "Best_Answer_Context": "s, she fears the worst. While discussing how they first got together in London, Chandler finds out that on the fateful night when Monica first came to"
+    },
+    {
+        "Question": "The handcuffs that were found in Rachel's former room belonged to who?",
+        "Answer": "Monica and Ross' Nana (grandmother).",
+        "Best_Answer": "Monica's",
+        "Best_Answer_Score": 0.27680957317352295,
+        "Best_Answer_Context": "hem with...\nChandler says that Don't say Richard! Well, if they're not Monica's and they're not yours, then whose are they?\nRachel says that Well, I t"
+    },
+    {
+        "Question": "Chandler and Ross helped Joey practice for what game show audition?",
+        "Answer": "Bamboozled.",
+        "Best_Answer": "Pyramid",
+        "Best_Answer_Score": 0.5001488327980042,
+        "Best_Answer_Context": "ship.\nRoss says that Things you find in the ocean,  You're gonna be on \"Pyramid\"!!\nMonica says that Oh, that was our favourite game show ever!\nRoss sa"
+    },
+    {
+        "Question": "What does Chandler call the Paris of Oklahoma?",
+        "Answer": "Tulsa.",
+        "Best_Answer": "Sooner state",
+        "Best_Answer_Score": 0.3454892635345459,
+        "Best_Answer_Context": " that So... Oklahoma is a crazy place. You know, they    call it the Sooner state. Frankly I'd sooner be in any other state.  And what's with Oklahoma"
+    },
+    {
+        "Question": "What food caused Ross to get sick on Space Mountain?",
+        "Answer": "Tacos.",
+        "Best_Answer": "chicken",
+        "Best_Answer_Score": 0.2634495496749878,
+        "Best_Answer_Context": "h, hi! I would check your hand but... I'm sure you don't want to get my chicken disease! Monica: Hey, Rachel, Can-can I see you for a sec? Rachel: Sur"
+    },
+    {
+        "Question": "Who is older Ross or Monica?",
+        "Answer": "Ross.",
+        "Best_Answer": "Joey",
+        "Best_Answer_Score": 0.41154199838638306,
+        "Best_Answer_Context": "at Okay.\nPhoebe says that Is it Ross? It’s Ross isn’t it—Oh my God, it’s Joey!\nRachel says that Honey, stop it! I am not going to tell you until I tel"
+    },
+    {
+        "Question": "What is actually</em> Rachel's favorite movie?",
+        "Answer": "Weekend at Bernie's</em>.",
+        "Best_Answer": "Weekend at Bernie’s",
+        "Best_Answer_Score": 0.7111296057701111,
+        "Best_Answer_Context": "says that Correct. Her actual favorite movie is...\nJoey says that Weekend at Bernie’s.\nRoss says that Correct. In what part of her body did Monica get"
+    },
+    {
+        "Question": "Which Friend had a traumatic swing incident at age 4?",
+        "Answer": "Rachel.",
+        "Best_Answer": "Rachel",
+        "Best_Answer_Score": 0.4277946949005127,
+        "Best_Answer_Context": "ic... swing    incident... when I was little.\nRoss says that Seriously?\nRachel says that Yes, I was 4 years old and I was on the swing and then all of"
+    },
+    {
+        "Question": "Ross and Rachel's daughter Emma would have turned 18 what year?",
+        "Answer": "2020.",
+        "Best_Answer": "I sang...  well actually    I rapped... Baby Got Back",
+        "Best_Answer_Score": 0.14940348267555237,
+        "Best_Answer_Context": "to make her laugh?\nRoss says that I uhm... Well, I sang...  well actually    I rapped... Baby Got Back...\nRachel says that You WHAT? You sang... to ou"
+    },
+    {
+        "Question": "Which Friend didn't go to London for Ross' wedding?",
+        "Answer": "Phoebe.",
+        "Best_Answer": "Phoebe",
+        "Best_Answer_Score": 0.06375690549612045,
+        "Best_Answer_Context": "ss's Wedding, part 1\nRoss, Monica, Joey, and Chandler leave for London; Phoebe's pregancy prohibits travel and Rachel stays to take care of her... and"
+    },
+    {
+        "Question": "What kind of bed did the Mattress King deliver to Monica?",
+        "Answer": "A racecar bed.",
+        "Best_Answer": "flower",
+        "Best_Answer_Score": 0.09360814839601517,
+        "Best_Answer_Context": "Okay umm, you could be flower delivery person.\nPhoebe says that What?!\nMonica says that Or! A bakery delivery person.\nPhoebe says that I wa-I wa-I wa…"
+    },
+    {
+        "Question": "Emma's first birthday cake was supposed to be shaped like what?",
+        "Answer": "A bunny.",
+        "Best_Answer": "a bunny",
+        "Best_Answer_Score": 0.6976678371429443,
+        "Best_Answer_Context": "d you do a picture of Emma?\nRachel says that Yes! On a cake shaped like a bunny.\nRoss says that Uh, Rach? Does this bakery by any chance also bake ero"
+    },
+    {
+        "Question": "In what part of her body did Monica get a pencil stuck at age 14?",
+        "Answer": "Her ear.",
+        "Best_Answer": "Her ear",
+        "Best_Answer_Score": 0.6406610608100891,
+        "Best_Answer_Context": "pencil stuck at age 14?\nChandler says that Oh!\nRoss says that Eww! No!! Her ear! All right, Monica categorizes her towels. How many categories are the"
+    },
+    {
+        "Question": "Ross created a comic book called what?",
+        "Answer": "Science Boy</em>.",
+        "Best_Answer": "Science Boy",
+        "Best_Answer_Score": 0.3885211944580078,
+        "Best_Answer_Context": "which had all the original artwork I had done for my own comic book: \"Science Boy\"  Monica: Oh yeah! What was his superpower again?  Ross: A superhuma"
+    },
+    {
+        "Question": "What is Joey's favorite food?",
+        "Answer": "Sandwiches.",
+        "Best_Answer": "teramisu",
+        "Best_Answer_Score": 0.685375988483429,
+        "Best_Answer_Context": "yourself! Grow up!\nRoss says that You grow up.\nChandler says that This teramisu is, is excellent. Did you make it Mary-Angela?\nJoey’s Grandmother says"
+    },
+    {
+        "Question": "How old was Chandler when he first touched a girl's breast?",
+        "Answer": "19.",
+        "Best_Answer": "14",
+        "Best_Answer_Score": 0.6703050136566162,
+        "Best_Answer_Context": "ndler was how old when he first touched a girl’s breast?\nRachel says that 14?\nRoss says that No, 19.\nChandler says that Thanks man.\nRoss says that Joe"
+    },
+    {
+        "Question": "What is Monica's biggest pet peeve?",
+        "Answer": "Animals dressed as humans.",
+        "Best_Answer": "Rachel",
+        "Best_Answer_Score": 0.626070499420166,
+        "Best_Answer_Context": "Monica says that These tiny, little non-breasts?! Please, it’s gotta be Rachel.\nRachel says that What, no, no, no, mine are deceptively small I mean, "
+    },
+    {
+        "Question": "Which Friend had his/her identity stolen?",
+        "Answer": "Monica.",
+        "Best_Answer": "Chandler",
+        "Best_Answer_Score": 0.18035180866718292,
+        "Best_Answer_Context": " that Oh, this should be easy. I have a very wide pelvis. You remember Chandler.\nChandler says that Janice I didn’t even know you were pregnant! Who’s"
+    },
+    {
+        "Question": "Joey&nbsp;doesn't read which book without making sure there is plenty of room in the&nbsp;freezer?",
+        "Answer": "The Shining</em>.",
+        "Best_Answer": "The Shining",
+        "Best_Answer_Score": 0.765254020690918,
+        "Best_Answer_Context": "zer?\nJoey says that Well, safer. Y'know, I mean I never start reading The Shining, without making sure we’ve got plenty of room in the freezer, y'know"
+    },
+    {
+        "Question": "What is the name of Ross and Monica's maternal grandmother?",
+        "Answer": "Althea.",
+        "Best_Answer": "Nesele Tolouse",
+        "Best_Answer_Score": 0.5846051573753357,
+        "Best_Answer_Context": " know. My grandmother said she got the recipe from her grandmother, Nesele Tolouse.\nMonica says that What was her name?\nPhoebe says that Nesele Toulou"
+    },
+    {
+        "Question": "Who stole all the insoles out of Chandler's shoes?",
+        "Answer": "Chandler's roomate Eddie.",
+        "Best_Answer": "The Stripper",
+        "Best_Answer_Score": 0.09011903405189514,
+        "Best_Answer_Context": "if any of my friends gets married, or have a birthday, or a Tuesday…\nThe Stripper says that Yeah, that would be great. So I guess umm, good night.\nJoe"
+    },
+    {
+        "Question": "Who gave Rachel and Ross the name Emma for their daughter?",
+        "Answer": "Monica.",
+        "Best_Answer": "Monica",
+        "Best_Answer_Score": 0.8450668454170227,
+        "Best_Answer_Context": "ech. The names they had in mind don't sound right to Rachel anymore, so Monica lets her use a name she had planned for her own daughter:  Emma.  Phoeb"
+    },
+    {
+        "Question": "Joey was cast as the butt double for which actor?",
+        "Answer": "Al Pacino.",
+        "Best_Answer": "Al Pacino",
+        "Best_Answer_Score": 0.9955206513404846,
+        "Best_Answer_Context": "icked up by the Estelle Leonard Talent Agency, which gets him a job as Al Pacino's butt double. However, he loses the job by overacting. Rachel cleans"
+    },
+    {
+        "Question": "What is the name of Phoebe's alter ego?",
+        "Answer": "Regina Phalange.",
+        "Best_Answer": "Ikea",
+        "Best_Answer_Score": 0.2529563903808594,
+        "Best_Answer_Context": "h... Monica: So, what's your name? Phoebe: It's a normal Swedish name... Ikea... Rachel: Oh... what an interesting name. Phoebe: Ja! Rachel: You know "
+    },
+    {
+        "Question": "What year did the series finale of Friends</em> air?",
+        "Answer": "2004.",
+        "Best_Answer": "1998",
+        "Best_Answer_Score": 0.889316976070404,
+        "Best_Answer_Context": ", 1997. This season contained 24 episodes and concluded airing on May 7, 1998. It also concluded a run of seasons generally considered among the serie"
+    },
+    {
+        "Question": "What is the name of Rachel and Monica's building superintendent?",
+        "Answer": "Mr. Treeger.",
+        "Best_Answer": "Mr. Treeger",
+        "Best_Answer_Score": 0.2991366684436798,
+        "Best_Answer_Context": "ants food, so they call the superintendent saying there's a gas leak. Mr. Treeger has the door broken down. Rachel tells Ross, and he and Joey learn t"
+    },
+    {
+        "Question": "What is Joey's pin number?",
+        "Answer": "5639.",
+        "Best_Answer": "5639",
+        "Best_Answer_Score": 0.4131574034690857,
+        "Best_Answer_Context": "t on the ATM machine down on the corner.\nPhoebe says that Ohh! So you're 5639?!\nJoey says that That's it! Thanks Pheebs!\nChandler says that Hey!\nPhoeb"
+    },
+    {
+        "Question": "What was the last state that Ross couldn't&nbsp;remember?",
+        "Answer": "Delaware.",
+        "Best_Answer": "my bra",
+        "Best_Answer_Score": 0.24106407165527344,
+        "Best_Answer_Context": "it wasn't just me, alright? He freaked out   too! He couldn't even undo my bra! Monica: Wow, really? One time he just looked   at my bra and it popped"
+    },
+    {
+        "Question": "What was the name of Chandler's roommate prior to Joey?",
+        "Answer": "Kip.",
+        "Best_Answer": "Kip",
+        "Best_Answer_Score": 0.892930269241333,
+        "Best_Answer_Context": "right\nChandler says that Yeah, yeah, it's just that with my last roommate Kip...\nJoey says that Aw, I know all about Kip!\nChandler says that It's just"
+    },
+    {
+        "Question": "Whose idea was it to get married in Vegas, Rachel or Ross'?",
+        "Answer": "Rachel.",
+        "Best_Answer": "Diane Keeton",
+        "Best_Answer_Score": 0.6399609446525574,
+        "Best_Answer_Context": "at Oh, come on! I don’t care! Come on! Whose is it?\nRachel says that Diane Keeton.\nMonica says that Do you realize that four weeks from today we’re ge"
+    },
+    {
+        "Question": "What was the name of Monica's imaginary boyfriend?",
+        "Answer": "Jared.",
+        "Best_Answer": "Jarred",
+        "Best_Answer_Score": 0.8643503785133362,
+        "Best_Answer_Context": "ot talking about your imaginary boyfriend.\nMonica says that No that was Jarred! Wow! I haven’t thought about him in a long time…   Anyway, umm Will’s,"
+    },
+    {
+        "Question": "What kind of plastic surgery did Rachel have?",
+        "Answer": "A nose job.",
+        "Best_Answer": "Transplant",
+        "Best_Answer_Score": 0.7139406800270081,
+        "Best_Answer_Context": "y today.\nThe Director says that What kind of surgery?!\nJoey says that Transplant.\nThe Director says that But you’re supposed to work on Monday.\nJoey s"
+    },
+    {
+        "Question": "Who was called Sir Limps-a-Lot after losing a toe?",
+        "Answer": "Chandler.",
+        "Best_Answer": "Chandler",
+        "Best_Answer_Score": 0.09122353047132492,
+        "Best_Answer_Context": "Doctor says that It's too late, all we can do now is sow up the wound.\nChandler says that Without my toe?! I need my toe!\nMonica says that Wait, no-no"
+    },
+    {
+        "Question": "What was the name of Rachel's hairless cat?",
+        "Answer": "Mrs. Whiskerson.",
+        "Best_Answer": "Sphinx",
+        "Best_Answer_Score": 0.897232174873352,
+        "Best_Answer_Context": "like playing. Rachel spends a thousand dollars on a pure-bred, hairless Sphinx cat, like the one her grandmother had when Rachel was a kid. Unfortunat"
+    },
+    {
+        "Question": "Which balloon got away during the Macy's Thanksgiving Day Parade in Season 1?",
+        "Answer": "Underdog.",
+        "Best_Answer": "Underdog",
+        "Best_Answer_Score": 0.611312985420227,
+        "Best_Answer_Context": "on that day; Rachel has plans to go to Vale to be with her family. The Underdog balloon breaks free during the parade; everyone goes to the roof to wa"
+    },
+    {
+        "Question": "Who gave birth to Chandler and Monica's twins?",
+        "Answer": "Erica.",
+        "Best_Answer": "Season-9",
+        "Best_Answer_Score": 0.14322996139526367,
+        "Best_Answer_Context": "e show, so he’s happy. Next, Phoebe meets and dates a police officer.\n\nSeason-9\nRachel has a baby this season and Ross realizes he still has feelings "
+    },
+    {
+        "Question": "Chandler and Rachel ate cheesecake off the floor from what bakery? &nbsp;",
+        "Answer": "Mama's Little Bakery.",
+        "Best_Answer": "Momma’s Little Bakery",
+        "Best_Answer_Score": 0.6744112968444824,
+        "Best_Answer_Context": "pted.\nChandler says that Good idea. Where do you want to go to lunch?\nRachel says that Momma’s Little Bakery, Chicago, Illinois.\nJoey says that Awww! "
+    },
+    {
+        "Question": "Which Friend once mugged Ross?",
+        "Answer": "Phoebe.",
+        "Best_Answer": "Phoebe",
+        "Best_Answer_Score": 0.22148486971855164,
+        "Best_Answer_Context": "tar, and he gets the part. Phoebe and Ross get mugged, but it turns out Phoebe knows the mugger from her days on the streets, when she occassionally m"
+    },
+    {
+        "Question": "Monica, Ross and Rachel attended what high school?",
+        "Answer": "Lincoln High School.",
+        "Best_Answer": "Will",
+        "Best_Answer_Score": 0.18709108233451843,
+        "Best_Answer_Context": "\nRachel says that Oh my God Monica, who is that?\nMonica says that That’s Will from high school!\nRachel says that Oh! I do not remember him! Wow! He's "
+    },
+    {
+        "Question": "Who were on a break?",
+        "Answer": "Rachel and Ross.",
+        "Best_Answer": "he and Rachel",
+        "Best_Answer_Score": 0.2668253183364868,
+        "Best_Answer_Context": "sleeps with a hot girl from the copy shop, Chloe. His insistence the he and Rachel were ‘On a break’ becomes a running gag through the remaining seaso"
+    },
+    {
+        "Question": "Ross was jealous of who at Rachel's job?",
+        "Answer": "Mark.",
+        "Best_Answer": "Mark",
+        "Best_Answer_Score": 0.8639739155769348,
+        "Best_Answer_Context": "ob; Ross sends her a singing telegram, and continues to be jealous about Mark. Chandler arranges a bachelor party for his cousin.  Joey gets an auditi"
+    },
+    {
+        "Question": "What was the name of the hot girl from the Xerox place?",
+        "Answer": "Chloe.",
+        "Best_Answer": "Janice",
+        "Best_Answer_Score": 0.1299978345632553,
+        "Best_Answer_Context": "    Chandler: I'd love to stay, but I have eh...  got    a hot date...  Janice: Please... go!  Just let me know if you    need a hand! Chandler:  I th"
+    },
+    {
+        "Question": "What did Rachel get a tattoo of?",
+        "Answer": "A heart.",
+        "Best_Answer": "apartment pants",
+        "Best_Answer_Score": 0.49959689378738403,
+        "Best_Answer_Context": "el says that Oh.\nPhoebe says that And, and then I got uh, these are apartment pants.\nRachel says that Apartment pants?\nPhoebe says that Yeah, you neve"
+    },
+    {
+        "Question": "Who is the first Friend to speak on the show?",
+        "Answer": "Monica.",
+        "Best_Answer": "Pete Becker",
+        "Best_Answer_Score": 0.43179231882095337,
+        "Best_Answer_Context": "ty on a soap opera in Los Angeles.\n\nMonica begins a relationship with Pete Becker, a millionaire who has a crush on her. At first, she only sees him a"
+    }
+]
