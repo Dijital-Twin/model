@@ -17,3 +17,6 @@ retriever = 1, reader = 1, response: 8sec
 
 ### google/electra-large-generator
 all scores less than 0.1 with retriever = 5, reader = 5
+
+### summary and my_model_3epoch are available in:
+https://drive.google.com/drive/folders/11SimpFYfFVHb7oWXkmiAm7-tjyg_XK8Q?usp=drive_link
